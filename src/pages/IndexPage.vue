@@ -1,6 +1,6 @@
 <template>
   <q-page class="row items-center justify-evenly">
-
+    <q-btn to="/table">Table -> Excel</q-btn>
   </q-page>
 </template>
 

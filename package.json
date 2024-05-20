@@ -14,9 +14,11 @@
     "build": "quasar build"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.11.3",
     "@quasar/extras": "^1.16.4",
     "@types/papaparse": "^5.3.14",
     "@vueuse/core": "^10.9.0",
+    "canvas-filters": "^1.0.1",
     "openai": "^4.47.1",
     "papaparse": "^5.4.1",
     "pinia": "^2.0.11",

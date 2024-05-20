@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Resi
+          <router-link to="/" style="color: white;text-decoration: none;">Resi</router-link>
         </q-toolbar-title>
       </q-toolbar>
     </q-header>
